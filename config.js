@@ -3,17 +3,15 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给你",      
-        "親愛的爸爸",  
-        "今天是你的生日",
-        "第53個生日了哦",
-        "生日快樂!",
-        "Happy Birthday!"
-        "祝你天天都開心!",
-        "願你的願望都成真!",
-        "最後...",
-        "再次祝你...",
-        "生日快樂~~帥爸!!",
+        "For you",      
+        "Dear Dad!",  
+        "Today is your birthday!",
+        "The 53 birthday!",
+        "Happy Birthday!",
+        "May you be happy every day",
+        "May your wishes come true!",
+        "Last...",
+        "Happy Birthday!~~Handsome Daddy!!",
         "お誕生日おめでとう!!"
     ],
     /**
