@@ -6,7 +6,6 @@ var config = {
         "For you",      
         "Dear Dad!",  
         "Today is your birthday!",
-        "The 53 birthday!",
         "Happy Birthday!",
         "May you be happy every day",
         "May your wishes come true!",
@@ -29,13 +28,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        turn_on: "start",
+        play: "music",
+        bannar_coming: "decoration",
+        balloons_flying: "Balloon?",
+        cake_fadein: "cake？",
+        light_candle: "candle？",
+        wish_message: "Happy Birthday",
         story: "A MESSAGE FOR YOU",
     }
 };
