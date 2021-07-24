@@ -28,13 +28,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "start",
-        play: "music",
-        bannar_coming: "decoration",
-        balloons_flying: "Balloon?",
-        cake_fadein: "cake？",
-        light_candle: "candle？",
-        wish_message: "Happy Birthday",
+        turn_on: "開始",
+        play: "音樂",
+        bannar_coming: "裝飾",
+        balloons_flying: "氣球?",
+        cake_fadein: "蛋糕？",
+        light_candle: "蠟燭？",
+        wish_message: "生日快樂",
         story: "A MESSAGE FOR YOU",
     }
 };
